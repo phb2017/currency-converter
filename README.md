@@ -5,6 +5,7 @@ Este é um projeto desenvolvido com o intuito de avaliar os conhecimentos de Jav
 ## Rodando o projeto
 
 ```
-Para rodar o projeto você vai precisar da planilha CSV que está neste repositório chamada "bacen.csv". Copie e cole-a na raiz do seu HD.
-Rode o teste unitário "CurrencyQuotationTest.java".
+1-) Para rodar o projeto você vai precisar da planilha CSV que está neste repositório chamada "bacen.csv". 
+2-) Copie e cole-a na raiz do seu HD.
+3-) Rode o teste unitário "CurrencyQuotationTest.java".
 ```
